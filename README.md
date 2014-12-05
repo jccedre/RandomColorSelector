@@ -1,4 +1,4 @@
-One button Color Picker
+One Button Color Picker
 ==================
 
 This is a super simple application that changes the background color
